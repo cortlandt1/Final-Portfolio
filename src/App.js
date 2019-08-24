@@ -11,7 +11,7 @@ function App() {
     <>
       <Router>
         <div>
-        <BrowserRouter basename="/Portfolio-Official" >
+        <BrowserRouter basename="/Final-Portfolio" >
           <Route exact path="/" component={Block1} />
         </BrowserRouter>
           {/* <Navbar uiConfig={uiConfig} isSignedIn={this.state.isSignedIn} userName={this.state.name} /> */}
