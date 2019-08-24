@@ -1,0 +1,93 @@
+.tech-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 37px;   
+}
+
+.image1 {
+    display: inline-flex;
+    background-size: cover;
+    background-image: url('./img/html.png');
+    background-position: center;
+    height: 80px;
+    width: 80px;
+    margin: 18px;
+    filter: grayscale(90%);
+}
+
+.image2 {
+    display: inline-flex;
+    background-size: cover;
+    background-image: url('./img/css.png');
+    background-position: center;
+    height: 80px;
+    width: 80px;
+    margin: 18px;
+    filter: grayscale(90%);
+}
+
+.image3 {
+    display: inline-flex;
+    background-size: cover;
+    background-image: url('./img/js.png');
+    background-position: center;
+    height: 80px;
+    width: 80px;
+    margin: 18px;
+    filter: grayscale(90%);
+}
+
+.image4 {
+    display: inline-flex;
+    background-size: cover;
+    background-image: url('./img/jquery.png');
+    background-position: center;
+    height: 80px;
+    width: 80px;
+    margin: 18px;
+    filter: grayscale(90%);
+}
+
+.image5 {
+    display: inline-flex;
+    background-size: cover;
+    background-image: url('./img/node.png');
+    background-position: center;
+    height: 80px;
+    width: 80px;
+    margin: 18px;
+    filter: grayscale(90%);
+}
+
+.image6 {
+    display: inline-flex;
+    background-size: cover;
+    background-image: url('./img/sql.png');
+    background-position: center;
+    height: 80px;
+    width: 80px;
+    margin: 18px;
+    filter: grayscale(90%);
+}
+
+.image7 {
+    display: inline-flex;
+    background-size: cover;
+    background-image: url('./img/react.png');
+    background-position: center;
+    height: 80px;
+    width: 80px;
+    margin: 18px;
+    filter: grayscale(90%);
+}
+
+.image8 {
+    display: inline-flex;
+    background-size: cover;
+    background-image: url('./img/firebase.png');
+    background-position: center;
+    height: 80px;
+    width: 80px;
+    margin: 18px;
+    filter: grayscale(90%);
+}
